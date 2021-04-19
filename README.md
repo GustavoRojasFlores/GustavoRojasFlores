@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GustavoRojasFlores
+- 👀 I’m interested in making content for VRChat
+- 🌱 I’m currently learning Lua, JavaScript and JSON
+- 💞️ I’m looking to collaborate on idk
+- 📫 nil
